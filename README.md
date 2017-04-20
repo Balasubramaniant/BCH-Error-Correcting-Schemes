@@ -1,2 +1,2 @@
 # BCH-Error-Correcting-Schemes
-An tutorial to the popular BCH Error Correcting Codes using MATLAB
+An tutorial to the popular BCH Error Correcting Codes using MATLAB. The Word Document gives an introduction and details the process of Error Correction by BCH. It also has some examples to showcase the algorithm. The Folder contains the MATLAB Code. Open 'Main.m' and run the file. The Error Correcting Capability can be changed by modifying values of 'CodeLen' and 'MsgLen'. Thank you.
